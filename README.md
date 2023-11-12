@@ -18,6 +18,24 @@ Like Hyderabad alot. Because I have spend **alot** of time their.I like Charmina
 ##  Food
  * Fish
  * egg
+
+
+
+---
+
+
+# table
+
+|Sport| why | Duration|
+|----|-----|-----|
+|Cricket | Health| 10 |
+|Foot Ball | Time Pass| 20|
+|Tennis| Health| 30|
+
+
+
+
+
  
 
 
